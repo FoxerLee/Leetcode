@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://leetcode.com/"><img src="./img/leetcode.png" height="50" title="LeetCode" alt="LeetCode"></a>
 </p>
+
 # Foxerlee' Leetcode Solutions
 
 In this respository, I will record **all** my own solutions for [Leetcode](https://leetcode.com/) problems by Python and Python 3.
