@@ -2,7 +2,7 @@
 <a href="https://leetcode.com/"><img src="./img/leetcode.png" height="50" title="LeetCode" alt="LeetCode"></a>
 </p>
 
-# Foxerlee' Leetcode Solutions
+# Foxerlee's Leetcode Solutions
 
 In this respository, I will record **all** my own solutions for [Leetcode](https://leetcode.com/) problems by Python and Python 3.
 
@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-257/1335 Solved | Easy 85 | Medium 136 | Hard 36
+258/1335 Solved | Easy 85 | Medium 137 | Hard 36
 
 |#|Title|Solution|Acceptance|Difficulty|
 |:--:|:--|:--:|:--:|:--:|
