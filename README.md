@@ -171,8 +171,8 @@ The repository is still under construction, feel free to contact me and talk abo
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)||34.49%|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[Python](submission/151.py)|19.09%|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Python](submission/152.py)|30.68%|Medium|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)||44.10%|Medium|
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)||40.17%|Hard|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Python](submission/153.py)|44.10%|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Python](submission/154.py)|40.17%|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)||40.59%|Easy|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down)🔒||53.59%|Medium|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)🔒||31.96%|Easy|
@@ -207,9 +207,9 @@ The repository is still under construction, feel free to contact me and talk abo
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)🔒||40.97%|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Python](submission/187.py)|37.67%|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)||27.35%|Hard|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array)||32.75%|Easy|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)||34.60%|Easy|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)||46.56%|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Python](submission/189.py)|32.75%|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](submission/190.py)|34.60%|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Python](submission/191.py)|46.56%|Easy|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency)||26.41%|Medium|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)||25.29%|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file)||23.79%|Medium|
