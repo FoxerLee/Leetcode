@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-258/1335 Solved | Easy 85 | Medium 137 | Hard 36
+263/1335 Solved | Easy 88 | Medium 138 | Hard 37
 
 |#|Title|Solution|Acceptance|Difficulty|
 |:--:|:--|:--:|:--:|:--:|
