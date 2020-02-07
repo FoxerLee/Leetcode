@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-263/1335 Solved | Easy 88 | Medium 138 | Hard 37
+272/1335 Solved | Easy 91 | Medium 143 | Hard 38
 
 |#|Title|Solution|Acceptance|Difficulty|
 |:--:|:--|:--:|:--:|:--:|
@@ -173,8 +173,8 @@ The repository is still under construction, feel free to contact me and talk abo
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Python](submission/152.py)|30.68%|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Python](submission/153.py)|44.10%|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Python](submission/154.py)|40.17%|Hard|
-|155|[Min Stack](https://leetcode.com/problems/min-stack)||40.59%|Easy|
-|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down)🔒||53.59%|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|[Python](submission/155.py)|40.59%|Easy|
+|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down)🔒|[Python](submission/156.py)|53.59%|Medium|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)🔒||31.96%|Easy|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)🔒||30.22%|Hard|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)🔒|[Python](submission/159.py)|48.53%|Medium|
@@ -197,7 +197,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)||29.71%|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)||29.28%|Medium|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores)||41.73%|Medium|
-|179|[Largest Number](https://leetcode.com/problems/largest-number)||27.30%|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number)|[Python](submission/179.py)|27.30%|Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)||36.96%|Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)||52.98%|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)||58.91%|Easy|
@@ -261,9 +261,9 @@ The repository is still under construction, feel free to contact me and talk abo
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python](submission/240.py)|42.26%|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)||52.97%|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)||54.87%|Easy|
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)🔒||59.68%|Easy|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)🔒|[Python](submission/243.py)|59.68%|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii)🔒||50.86%|Medium|
-|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii)🔒||54.74%|Medium|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii)🔒|[Python](submission/245.py)|54.74%|Medium|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number)🔒||43.85%|Easy|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii)🔒|[Python](submission/247.py)|46.24%|Medium|
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii)🔒|[Python](submission/248.py)|38.45%|Hard|
@@ -292,9 +292,9 @@ The repository is still under construction, feel free to contact me and talk abo
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)🔒|[Python](submission/271.py)|29.77%|Medium|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii)🔒||48.43%|Hard|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words)||25.71%|Hard|
-|274|[H-Index](https://leetcode.com/problems/h-index)||35.13%|Medium|
-|275|[H-Index II](https://leetcode.com/problems/h-index-ii)||36.00%|Medium|
-|276|[Paint Fence](https://leetcode.com/problems/paint-fence)🔒||37.45%|Easy|
+|274|[H-Index](https://leetcode.com/problems/h-index)|[Python](submission/274.py)|35.13%|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii)|[Python](submission/275.py)|36.00%|Medium|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence)🔒|[Python](submission/276.py)|37.45%|Easy|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity)🔒||39.75%|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)||32.68%|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)||44.18%|Medium|
@@ -313,7 +313,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |292|[Nim Game](https://leetcode.com/problems/nim-game)||56.01%|Easy|
 |293|[Flip Game](https://leetcode.com/problems/flip-game)🔒||59.88%|Easy|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii)🔒||49.37%|Medium|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)||40.81%|Hard|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[Python](submission/295.py)|40.81%|Hard|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point)🔒||56.68%|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[Python](submission/297.py)|44.76%|Hard|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)🔒||45.86%|Medium|
@@ -512,7 +512,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences)||43.71%|Medium|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)||49.13%|Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs)||24.21%|Hard|
-|494|[Target Sum](https://leetcode.com/problems/target-sum)||46.21%|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum)|[Python](submission/494.py)|46.21%|Medium|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking)||53.11%|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[Python](submission/496.py)|61.86%|Easy|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||37.14%|Medium|
