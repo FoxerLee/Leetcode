@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-284/1354 Solved | Easy 96 | Medium 149 | Hard 39
+293/1363 Solved | Easy 100 | Medium 152 | Hard 41
 
 |#|Title|Solution|Difficulty|
 |:--:|:--|:--:|:--:|
@@ -112,12 +112,12 @@ The repository is still under construction, feel free to contact me and talk abo
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways)|[python](submission/python/0091.py)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)||Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)||Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[python](submission/python/0094.py)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)||Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)||Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string)|[python](submission/python/0097.py)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[python](submission/python/0098.py)|Medium|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)||Hard|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[python](submission/python/0099.py)|Hard|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[python](submission/python/0100.py)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[python](submission/python/0101.py)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[python](submission/python/0102.py)|Medium|
@@ -273,16 +273,16 @@ The repository is still under construction, feel free to contact me and talk abo
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms)🔒|[python](submission/python/0252.py)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)🔒|[python](submission/python/0253.py)|Medium|
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)🔒|[python](submission/python/0254.py)|Medium|
-|255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)🔒||Medium|
-|256|[Paint House](https://leetcode.com/problems/paint-house)🔒||Easy|
+|255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)🔒|[python](submission/python/0255.py)|Medium|
+|256|[Paint House](https://leetcode.com/problems/paint-house)🔒|[python](submission/python/0256.py)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[python](submission/python/0257.py)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits)||Easy|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller)🔒|[python](submission/python/0259.py)|Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii)||Medium|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)🔒||Medium|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users)||Hard|
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number)||Easy|
-|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)||Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[python](submission/python/0263.py)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[python](submission/python/0264.py)|Medium|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii)🔒||Hard|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation)🔒||Easy|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii)🔒||Medium|
@@ -399,7 +399,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[python](submission/python/0378.py)|Medium|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory)🔒||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)|[python](submission/python/0380.py)|Medium|
-|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)||Hard|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|[python](submission/python/0381.py)|Hard|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)||Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)||Easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[python](submission/python/0384.py)|Medium|
@@ -576,7 +576,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |555|[Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings)🔒||Medium|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii)||Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)||Easy|
-|558|[Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection)||Easy|
+|558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)||Medium|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[python](submission/python/0560.py)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i)||Easy|
@@ -624,7 +624,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats)🔒||Easy|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator)🔒||Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|[python](submission/python/0605.py)|Easy|
-|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)||Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[python](submission/python/0606.py)|Easy|
 |607|[Sales Person](https://leetcode.com/problems/sales-person)🔒||Easy|
 |608|[Tree Node](https://leetcode.com/problems/tree-node)🔒||Medium|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)||Medium|
@@ -687,7 +687,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv)🔒||Medium|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)||Medium|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
-|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)||Easy|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[python](submission/python/0669.py)|Easy|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap)||Medium|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||Easy|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii)||Medium|
@@ -846,7 +846,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages)||Medium|
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work)||Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island)||Hard|
-|828|[Unique Letter String](https://leetcode.com/problems/unique-letter-string)||Hard|
+|828|[Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string)||Hard|
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)|[python](submission/python/0829.py)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups)||Easy|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information)||Medium|
@@ -1373,6 +1373,16 @@ The repository is still under construction, feel free to contact me and talk abo
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)||Medium|
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)||Medium|
 |1354|[Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)||Hard|
+|1355|[Activity Participants](https://leetcode.com/problems/activity-participants)🔒||Medium|
+|1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)||Easy|
+|1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders)||Medium|
+|1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)||Medium|
+|1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options)||Hard|
+|1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates)||Easy|
+|1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)||Medium|
+|1362|[Closest Divisors](https://leetcode.com/problems/closest-divisors)||Medium|
+|1363|[Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three)||Hard|
+
 
 
 
