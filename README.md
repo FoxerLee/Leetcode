@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-293/1363 Solved | Easy 100 | Medium 152 | Hard 41
+297/1368 Solved | Easy 100 | Medium 156 | Hard 41
 
 |#|Title|Solution|Difficulty|
 |:--:|:--|:--:|:--:|
@@ -933,8 +933,8 @@ The repository is still under construction, feel free to contact me and talk abo
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array)||Medium|
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse)||Hard|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)||Easy|
-|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)||Medium|
-|916|[Word Subsets](https://leetcode.com/problems/word-subsets)||Medium|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)|[python](submission/python/0915.py)|Medium|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets)|[python](submission/python/0916.py)|Medium|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)||Medium|
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter)||Medium|
@@ -1163,7 +1163,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |1142|[User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii)🔒||Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)||Medium|
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)||Medium|
-|1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)||Medium|
+|1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)|[python](submission/python/1145.py)|Medium|
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array)||Medium|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)||Hard|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i)🔒||Easy|
@@ -1285,7 +1285,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |1264|[Page Recommendations](https://leetcode.com/problems/page-recommendations)🔒||Medium|
 |1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)🔒||Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)||Easy|
-|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)||Medium|
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)|[python](submission/python/1267.py)|Medium|
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)||Medium|
 |1269|[Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)||Hard|
 |1270|[All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager)🔒||Medium|
@@ -1382,6 +1382,11 @@ The repository is still under construction, feel free to contact me and talk abo
 |1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)||Medium|
 |1362|[Closest Divisors](https://leetcode.com/problems/closest-divisors)||Medium|
 |1363|[Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three)||Hard|
+|1364|[Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer)🔒||Medium|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)||Easy|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes)||Medium|
+|1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree)||Medium|
+|1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)||Hard|
 
 
 
