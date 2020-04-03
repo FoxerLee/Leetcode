@@ -15,7 +15,7 @@ Email: yl6606@nyu.edu && foxerlee1@gmail.com
 The repository is still under construction, feel free to contact me and talk about these problems. :)
 
 ## Problems
-312/1388 Solved | Easy 107 | Medium 163 | Hard 42
+329/1397 Solved | Easy 114 | Medium 172 | Hard 43
 
 |#|Title|Solution|Difficulty|
 |:--:|:--|:--:|:--:|
@@ -41,7 +41,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[python](submission/python/0020.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[python](submission/python/0021.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[cpp](submission/cpp/0022.cpp)|Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[cpp](submission/cpp/0023.cpp)|Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[python](submission/python/0023.py)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[python](submission/python/0024.py)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[python](submission/python/0025.py)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[python](submission/python/0026.py)|Easy|
@@ -259,8 +259,8 @@ The repository is still under construction, feel free to contact me and talk abo
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[python](submission/python/0238.py)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)|[python](submission/python/0239.py)|Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[python](submission/python/0240.py)|Medium|
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)||Medium|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)||Easy|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|[python](submission/python/0241.py)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[python](submission/python/0242.py)|Easy|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)🔒|[python](submission/python/0243.py)|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii)🔒||Medium|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii)🔒|[python](submission/python/0245.py)|Medium|
@@ -331,7 +331,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)||Medium|
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication)🔒||Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons)||Hard|
-|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)||Medium|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[python](submission/python/0313.py)|Medium|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)🔒|[python](submission/python/0314.py)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|[python](submission/python/0315.py)|Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)||Hard|
@@ -345,7 +345,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)|[python](submission/python/0324.py)|Medium|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)🔒||Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)||Easy|
-|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)||Hard|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)|[python](submission/python/0327.py)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)||Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)|[python](submission/python/0329.py)|Hard|
 |330|[Patching Array](https://leetcode.com/problems/patching-array)||Hard|
@@ -469,7 +469,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||Easy|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst)||Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)||Medium|
-|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)||Medium|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[python](submission/python/0451.py)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||Medium|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii)||Medium|
@@ -1104,7 +1104,7 @@ The repository is still under construction, feel free to contact me and talk abo
 |1083|[Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii)🔒||Easy|
 |1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)🔒||Easy|
 |1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)🔒||Easy|
-|1086|[High Five](https://leetcode.com/problems/high-five)🔒||Easy|
+|1086|[High Five](https://leetcode.com/problems/high-five)🔒|[python](submission/python/1086.py)|Easy|
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion)🔒|[python](submission/python/1087.py)|Medium|
 |1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii)🔒|[python](submission/python/1088.py)|Hard|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)||Easy|
@@ -1283,8 +1283,8 @@ The repository is still under construction, feel free to contact me and talk abo
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)||Medium|
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location)||Hard|
 |1264|[Page Recommendations](https://leetcode.com/problems/page-recommendations)🔒||Medium|
-|1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)🔒||Medium|
-|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)||Easy|
+|1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)🔒|[python](submission/python/1265.py)|Medium|
+|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)|[python](submission/python/1266.py)|Easy|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)|[python](submission/python/1267.py)|Medium|
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)||Medium|
 |1269|[Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)||Hard|
@@ -1322,9 +1322,9 @@ The repository is still under construction, feel free to contact me and talk abo
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)||Hard|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)||Medium|
 |1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size)🔒||Easy|
-|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)||Easy|
-|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)||Medium|
-|1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii)||Medium|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|[python](submission/python/1304.py)|Easy|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|[python](submission/python/1305.py)|Medium|
+|1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii)|[python](submission/python/1306.py)|Medium|
 |1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle)||Hard|
 |1308|[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders)🔒||Medium|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)||Easy|
@@ -1355,13 +1355,13 @@ The repository is still under construction, feel free to contact me and talk abo
 |1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)||Medium|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)||Hard|
 |1336|[Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit)🔒||Hard|
-|1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)||Easy|
-|1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)||Medium|
+|1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|[python](submission/python/1337.py)|Easy|
+|1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)|[python](submission/python/1338.py)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)||Medium|
 |1340|[Jump Game V](https://leetcode.com/problems/jump-game-v)||Hard|
 |1341|[Movie Rating](https://leetcode.com/problems/movie-rating)🔒||Medium|
-|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)||Easy|
-|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)||Medium|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[python](submission/python/1342.py)|Easy|
+|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|[python](submission/python/1343.py)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)||Medium|
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv)||Hard|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)||Easy|
@@ -1403,6 +1403,19 @@ The repository is still under construction, feel free to contact me and talk abo
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)||Medium|
 |1383|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team)||Hard|
 |1384|[Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year)🔒||Hard|
+|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)||Easy|
+|1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation)||Medium|
+|1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value)||Medium|
+|1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices)||Hard|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)||Easy|
+|1390|[Four Divisors](https://leetcode.com/problems/four-divisors)||Medium|
+|1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)||Medium|
+|1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix)||Hard|
+|1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss)🔒||Medium|
+|1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||Easy|
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)||Medium|
+|1396|[Design Underground System](https://leetcode.com/problems/design-underground-system)||Medium|
+|1397|[Find All Good Strings](https://leetcode.com/problems/find-all-good-strings)||Hard|
 
 
 
